@@ -1,2 +1,5 @@
 ---
-# defaults file for Mypython
+serviceaccountname: my-python-app
+pending: "Installing"
+completed: "Ready"
+failed: "Failed"
