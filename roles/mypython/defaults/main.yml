@@ -1,1 +1,5 @@
 ---
+serviceaccountname: my-python-app
+pending: "Installing"
+completed: "Ready"
+failed: "Failed"
